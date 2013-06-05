@@ -1,0 +1,15 @@
+Assignment - Front End Development
+
+Facebook pages are used by businesses, organisations and brands to share their stories and connect with users. 
+Your assignment is to create a HTML page that facilitates searching for these "pages", using only JavaScript, HTML and CSS. 
+To your help you have Facebook's public API for searching pages, documented here:
+https://developers.facebook.com/docs/reference/api/
+Hint: Most of the APIs that deal with searching and reading "pages" do not require user authorisation, and they support JSONP (through the "callback" parameter).
+Requirements:
+•	Use only the JavaScript capabilities available to you in the browser, no external libraries(jquery or anything).
+•	For each search result, make it possible for the user to find out more about the page, for example by expanding an individual result.
+•	You need not worry about old web browsers.(just worry about IE9+)
+•	No "server side" code.
+
+
+Try to make code semantic with minimum or no use of frames/iframes/server side code etc. We are only interested in how one think and code. Presentation is equally important but bare minimum will work.
