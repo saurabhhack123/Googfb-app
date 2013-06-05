@@ -1,0 +1,105 @@
+body{
+  background-image: url(images/back.png);
+         
+ }
+input{
+  margin: 40px 0 0 343px;
+  width: 270px;
+  height: 30px;
+  text-align: center;
+  -moz-border-radius: 0.5em;                    /*adding prefixes to support multiple browser*/
+  -webkit-border-radius: 0.5em;
+  -ms-border-radius: 0.5em;
+   border-radius: 0.5em;
+  -moz-box-shadow:5px 5px 5px #888888; 
+  -webkit-box-shadow:5px 5px 5px #888888;
+  -ms-box-shadow:5px 5px 5px #888888;
+   box-shadow: 5px 5px 5px #888888;
+   }
+button{
+  background: #db4b39;
+  color: #fff;
+  -moz-border-radius: 0.5em;
+  -webkit-border-radius: 0.5em;
+  -ms-border-radius: 0.5em;
+  border-radius: 0.5em;
+  width: 190px;
+  height: 30px;
+   }
+ #box{
+  width: 1290px;
+  height: 50px;
+  background-color: rgb(245, 243, 239);
+  }
+ h2{
+  font-size: 36px;
+  font-family: Arial, Helvetica, Tahoma, sans-serif;
+  text-align: center;
+  color: #888888;
+  top: 12px;
+  }
+ h2 span{
+  font-size: 20px;
+  font-family: Georgia;
+  text-align: center; 
+ }
+ h5{
+  font-size: 10px;
+  font-family: Georgia;
+  color: white;
+  left: 900px;
+  right: 100px;
+  }
+ #abt,#more,#likes,#talk,#cat,#link,#clear{
+   font-family: monospace;
+   text-align: center;
+   color: white;
+  }
+
+  #abt,#more,#likes,#talk,#cat,#link{
+   padding-top: 22px;
+  } 
+  #more,#clear{
+   cursor: pointer;
+  }
+ #abt{
+    border: 0px solid white;
+    margin: 100px 100px 0 340px;
+    height: 70px;
+    }
+ #more{
+    border: 0px solid black;
+    margin: 2px 450px 0 480px;
+    height:40px; 
+    }
+ #likes{
+   border: 0px solid black;
+   margin: 10px 830px 0 300px;
+   width: 300px;
+   height: 40px ;
+    }
+ #talk{
+  border: 0px solid black;
+  margin: 10px 700px 0 600px;
+  width: 500px;
+  height: 40px;
+   }
+ #cat{
+  border: 0px solid black;
+  margin: 20px 400px 0 400px;
+  width: 300px;
+  height: 40px; 
+  }
+ #link{
+  border: 0px solid black;
+  margin: 2px 200px 0 600px;
+  width: 300px;
+  height: 40px;
+  }
+#clear{
+  border: 0px solid black;
+  margin: 2px 200px 10px 200px;
+  width: 300px;
+  height: 40px; 
+ }
+ 
